@@ -960,3 +960,100 @@ JavaScript error: resource://gre/modules/PushServiceWebSocket.jsm, line 309: NS_
 1541517924643	Marionette	INFO	Listening on port 63891
 1541517924680	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource:///actors/NetErrorChild.jsm, line 602: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1541534195635	Marionette	INFO	Stopped listening on port 63891
+1541534200451	Marionette	INFO	Stopped listening on port 63823
+1541534201156	Marionette	INFO	Stopped listening on port 63027
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1541534203776	Marionette	INFO	Stopped listening on port 62960
+1541535306043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.Wjxek97QODuy"
+1541535308850	Marionette	INFO	Listening on port 49689
+1541535308914	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541535330674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.icKN97KQYzOP"
+1541535332919	Marionette	INFO	Listening on port 49776
+1541535332931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541535461128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.F7JddjWqE5Vq"
+1541535463487	Marionette	INFO	Listening on port 50157
+1541535463498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541535525760	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.ekTY7dIwPrFK"
+1541535528121	Marionette	INFO	Listening on port 50321
+1541535528230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541535588021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.QNsvjUTsbffk"
+1541535590336	Marionette	INFO	Listening on port 50473
+1541535590393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541535678660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.vkdMYiGlPw2q"
+1541535680900	Marionette	INFO	Listening on port 50691
+1541535680959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541536542339	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.GiDUyMkLUOtt"
+1541536544935	Marionette	INFO	Listening on port 52022
+1541536545058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541536550825	Marionette	INFO	Stopped listening on port 52022
+1541536769429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.GfII3pQ1kTMj"
+1541536771757	Marionette	INFO	Listening on port 52374
+1541536771802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541536777226	Marionette	INFO	Stopped listening on port 52374
+1541536907539	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.NmXHdlOIT5rc"
+1541536909912	Marionette	INFO	Listening on port 52672
+1541536909922	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541537507451	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.4Akhok5ISn1b"
+1541537510017	Marionette	INFO	Listening on port 54850
+1541537510030	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1541537551063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rq/ngdcg6dn03l5yk8pm1h660cr0000gn/T/rust_mozprofile.gBrBAwGuosH4"
+1541537553317	Marionette	INFO	Listening on port 55083
+1541537553329	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1541537591068	Marionette	INFO	Stopped listening on port 49776
+[Parent 62369, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1541537593650	Marionette	INFO	Stopped listening on port 50157
+1541537595849	Marionette	INFO	Stopped listening on port 50321
+1541537598097	Marionette	INFO	Stopped listening on port 50473
+1541537600297	Marionette	INFO	Stopped listening on port 50691
+1541538123088	Marionette	INFO	Stopped listening on port 55083
